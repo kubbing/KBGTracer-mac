@@ -1,3 +1,6 @@
 # KBGTracer
 
 Simpley Friday raytracer heavily based on [smallpt](http://www.kevinbeason.com/smallpt/);
+
+- OS X app
+- Xcode project, C++11
